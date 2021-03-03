@@ -15,3 +15,5 @@ The different steps of the project was :
 - Handling of the feature *genre*
 
 - Advanded data analysis (distribution, statistical hypothesis testing...)
+
+**Technologies** : NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
